@@ -105,6 +105,14 @@ DOMAIN-SUFFIX,vimeocdn.com
 DOMAIN-SUFFIX,wheather.com
 DOMAIN-SUFFIX,wikiart.org
 DOMAIN-SUFFIX,x.com
+// Amplitude-start
+DOMAIN-SUFFIX,amplitude.com
+DOMAIN-SUFFIX,api.amplitude.com
+DOMAIN-SUFFIX,analytics.amplitude.com
+DOMAIN-SUFFIX,assets.amplitude.com
+DOMAIN-SUFFIX,event.amplitude.com
+DOMAIN,amplitude-website.nyc3.cdn.digitaloceanspaces.com
+// Amplitude-end
 DOMAIN-KEYWORD,anzu-us
 DOMAIN-KEYWORD,gameloft
 DOMAIN-KEYWORD,kahoot
@@ -113,5 +121,6 @@ DOMAIN-KEYWORD,spotify
 DOMAIN-KEYWORD,deezer
 DOMAIN-KEYWORD,tiktok
 DOMAIN-SUFFIX,yearcompass.com
+
 
 
