@@ -59,3 +59,19 @@ DOMAIN-SUFFIX,fb.me
 DOMAIN-SUFFIX,edge-chat.facebook.com
 DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,connect.facebook.net
+// Stripe-start
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,js.stripe.com
+DOMAIN-SUFFIX,api.stripe.com
+DOMAIN-SUFFIX,checkout.stripe.com
+DOMAIN-SUFFIX,q.stripe.com
+DOMAIN-SUFFIX,m.stripe.com
+DOMAIN-SUFFIX,hooks.stripe.com
+DOMAIN-SUFFIX,radar.stripe.com
+DOMAIN-SUFFIX,pci-connect.stripe.com
+DOMAIN-SUFFIX,epn.stripe.com
+DOMAIN-SUFFIX,terminal.stripe.com
+DOMAIN-SUFFIX,stripe.network
+DOMAIN-SUFFIX,c.stripe.com
+DOMAIN-SUFFIX,a.stripe.com
+// Stripe-end
