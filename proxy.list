@@ -122,5 +122,44 @@ DOMAIN-KEYWORD,deezer
 DOMAIN-KEYWORD,tiktok
 DOMAIN-SUFFIX,yearcompass.com
 
+// OpenAI-start
+// Основные сайты и платформы
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN,chat.openai.com
+DOMAIN,platform.openai.com
+DOMAIN,help.openai.com
+DOMAIN,status.openai.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN,files.oaiusercontent.com
+DOMAIN,cdn.openai.com
+DOMAIN-SUFFIX,ai.com
+
+// API и аутентификация (важно для Codex на MacOS)
+DOMAIN,api.openai.com
+DOMAIN,auth.openai.com
+DOMAIN,api.auth.openai.com
+
+// Специфичные для Codex (приложение для MacOS)
+DOMAIN,codex.chatgpt.com
+DOMAIN,analytics.codex.chatgpt.com
+DOMAIN-SUFFIX,codex-openai.com
+
+// Домены для рассылок и коммуникаций
+DOMAIN-SUFFIX,openai.org
+DOMAIN-SUFFIX,openaimail.com
+
+// Домены для CDN и контента
+DOMAIN-SUFFIX,chatgpt.livekit.cloud
+DOMAIN,openaicom.imgix.net
+
+// Дополнительные ключевые слова для подстраховки
+DOMAIN-KEYWORD,openai
+DOMAIN-KEYWORD,chatgpt
+DOMAIN-KEYWORD,codex
+// OpenAI-end
+
+
 
 
